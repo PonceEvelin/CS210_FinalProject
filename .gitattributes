@@ -1,1 +1,4 @@
 processed_data/cleaned_traffic_data.csv filter=lfs diff=lfs merge=lfs -text
+processed_data/cleaned_fine_particles_data.csv filter=lfs diff=lfs merge=lfs -text
+processed_dat/cleaned_fine_particles_data.csv filter=lfs diff=lfs merge=lfs -text
+processed_data/cleaned_nitrogen_dioxide_data.csv filter=lfs diff=lfs merge=lfs -text
