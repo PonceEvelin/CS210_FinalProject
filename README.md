@@ -11,7 +11,8 @@ Under each model you can see visualizations of our predictions compared to the a
 
 Installation: 
 In order to run our project please make sure you have python 3.11.9 for our LSTM model as it uses that version of python to run: https://www.python.org/downloads/release/python-3119/
-If you do not have this version of python, issues may occur in running the code and displaying the results. 
+If you do not have this version of python, issues may occur in running the code and displaying the results.
+After installing Python 3.11.9, you'll need to install the libraries we used by running the command pip install numpy matplotlib pandas scikit-learn tensorflow in your terminal. This makes sure your computer has all the tools needed to run the machine learning models and show the graphs properly.
 Our code is in Jupyter Notebooks so please make sure to have the 'Jupyter' extension downloaded when viewing in VS Code: https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter 
 Our data files our within the data_files folder so there is no need to download external data.
 
